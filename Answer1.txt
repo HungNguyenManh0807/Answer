@@ -1,0 +1,13 @@
+﻿Câu 1: Lớp là gì? Các thành phần của lớp?
+	- Lớp là 1 đại diện cho các vật thể trong đó các vật thể có thành phần giống nhau
+	- Lớp gồm Hàm và Câu lệnh
+Câu 2: Cách đặt tên Hàm và lớp?
+	- Tên hàm thường là động từ viết thường có tính mô tả
+	- Tên lớp thường là danh từ và viết hoa chữ cái đầu
+Câu 3: Git là gì? GitHub là gì?
+	- Git là 1 công cụ quản lí phân tán dữ liệu
+	- Github là 1 trang web Cộng đồng hoạt động với mục đích lưu giữ chia sẻ các code repostory làm việc nhóm
+Câu 4: Branch là gì? Câu lệnh push, pull, checkout, stash hoạt động như thế nào?
+	- Branch là nhánh trong git được sử dụng để tách nhánh ra khỏi code gốc và làm tiếp đoạn code
+còn dở mà không cần phải revert lại từ đầu
+	- Các lệnh push, pull, checkout, stash được sử dụng dựa trên mô hình local repository <=> remote repository thông qua git và github
